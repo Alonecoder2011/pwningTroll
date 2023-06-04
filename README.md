@@ -1,4 +1,4 @@
-# AcceleratorTroll™ <img src="acceleratortroll/Assets.xcassets/AppIcon.appiconset/acceleratortroll.png" width="140px" style="float: right;">
+# Ha i forked accelerafseduhbor troll™ <img src="acceleratortroll/Assets.xcassets/AppIcon.appiconset/acceleratortroll.png" width="140px" style="float: right;">
 Abusing CVE-2023-28206 to make something useful. 
 
 ## Roadmap
